@@ -1,1 +1,3 @@
 # SQL-Travego-Project
+ThefocusofthisprojectistolearntowritedifferenttypesSQLstatementstoinsertandretrievedatafromadatabase.FordatabasestoragewewilluseMySQL
+TogiveaninsightwehavetwotablesPassengerandPrice
